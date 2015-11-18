@@ -1,0 +1,19 @@
+{
+    "username": "n.mattrup@trailhead.com", 
+    "environment": "developer", 
+    "project_name": "MyApp", 
+    "workspace": "C:\\Users\\Nikolaj.Mattrup\\Documents\\SFDC", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "S93G9BKR3U0RUW4ACX2L4Q6PV4PWZG02", 
+    "metadata_container": "1dc240000002iqmAAA", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
